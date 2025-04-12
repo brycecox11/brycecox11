@@ -31,7 +31,7 @@ Take a look at my 🔐 [AWS IAM Cloud Security Project](https://github.com/bryce
 - IAM policies scoped by tags
 - EC2 access control through IAM groups and roles
 
-Take a look at my [Securing Data in AWS S3 Buckets Project](https://github.com/brycecox11/Projects/tree/main/AWS/Securing%20Data%20in%20AWS%20S3%20Buckets) repo, where I showcase: 
+Take a look at my 🔐 [Securing Data in AWS S3 Buckets Project](https://github.com/brycecox11/Projects/tree/main/AWS/Securing%20Data%20in%20AWS%20S3%20Buckets) repo, where I showcase: 
 - Implementing S3 bucket policies to control access
 - Enabling encryption at rest using SSE-KMS
 
