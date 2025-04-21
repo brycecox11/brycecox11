@@ -15,7 +15,7 @@ I’m currently building **real-world cloud security projects** in both **AWS** 
 ## 🔐 **Certifications:**
 - ✅ **CompTIA Security+ (SY0-701)**
 - ✅ **AWS Certified Cloud Practicioner**
-- ⏳ In Progress: **AWS Certified SysOps Administraor**
+- ⏳ In Progress: **AWS Certified SysOps Administrator**
 
 ## 🚀 Learning Journey
 
