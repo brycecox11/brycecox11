@@ -1,6 +1,6 @@
 ### Hi, I’m Bryce!
 
-🔥 My passion lies at the intersection of **cybersecurity** and **cloud computing**, and I'm focused on securing modern cloud environments through hands-on learning and project-based work. I hold a **Master’s degree in Digital Forensics & Cyber Investigation** from the **University of Maryland Global Campus (UMGC)** and am **CompTIA Security+ (SY0-701)** certified. 
+My passion lies at the intersection of **cybersecurity** and **cloud computing**, and I'm focused on securing modern cloud environments through hands-on learning and project-based work. I hold a **Master’s degree in Digital Forensics & Cyber Investigation** from the **University of Maryland Global Campus (UMGC)** and am **CompTIA Security+ (SY0-701)** certified. 
 
 [![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brycecox11&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
